@@ -1,5 +1,5 @@
 # Blog Management
- Well developed website to manage your day routine. Custom routes. You can divide your to do list into sections by simply putting a slash (“/”) and title. This will create another to do list with mentioned title. It contains a checklist. Item will be deleted once you checked the item. It usea  mongoose db to store lists and list items.
+ Well developed website to manage your day routine. Custom routes. You can divide your to do list into sections by simply putting a slash (“/”) and title. This will create another to do list with mentioned title. It contains a checklist. Item will be deleted once you checked the item. It uses mongoose db to store lists and list items.
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
